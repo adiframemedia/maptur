@@ -14,7 +14,7 @@
 
 ### Pricing Tiers
 
--             | **Free**                         | **Base ($250)**       | **Pro ($250 + $20/mo)**
+|             | **Free**                         | **Base ($250)**       | **Pro ($250 + $20/mo)**
 ----------------------------- |----------------------------- | ----------------- | ---------
 Script Control               | Basic                        | Advanced          | Advanced
 Movement Type             | Rotation                     | Rotation and Translation            | Rotation and Translation
