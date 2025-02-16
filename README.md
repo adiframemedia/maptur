@@ -5,7 +5,7 @@
 [![Badge: Windows](https://img.shields.io/badge/os-Windows-blue)](#)
 [![Badge: macOS](https://img.shields.io/badge/os-macOS-green)](#)
 [![Badge: Linux](https://img.shields.io/badge/os-Linux-yellow)](#)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](#)
+[![Version](https://img.shields.io/badge/version-1.0.0-darkgreen)](#)
 
 
 ### Tested Mobile Devices
