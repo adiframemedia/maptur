@@ -1,1 +1,1 @@
-<img src = "Assets/Logo.png" />
+<img src = "Assets/logo.png" />
