@@ -8,7 +8,7 @@
 
 ## Welcome to Maptur
 
-### Maptur is a 3D Tracking Software and Plugin Collective that translates IMU data from mobile devices into usable 3d positioning data for animation software.
+ Maptur is a 3D Tracking Software and Plugin Collective that translates IMU data from mobile devices into usable 3d positioning data for animation software.
 
 
 ### How it works?
