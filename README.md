@@ -17,9 +17,9 @@
 Feature Category              | Free                         | Base ($250)       | Pro ($250 + $20/mo)
 ----------------------------- |----------------------------- | ----------------- | ---------
 **Script Control**                | Basic                        | Advanced          | Advanced
-Movement Type                 | Rotation                     | Rotation and Translation            | Rotation and Translation
-Setup                         | Manual Setup & Control            | Blender Addon GUI            | Blender Addon GUI
-Data Streaming                | 3rd Party IMU Streaming            | 3rd Party IMU Streaming           | Maptur Mobile App Streaming
+**Movement Type**                | Rotation                     | Rotation and Translation            | Rotation and Translation
+**Setup**                         | Manual Setup & Control            | Blender Addon GUI            | Blender Addon GUI
+**Data Streaming**               | 3rd Party IMU Streaming            | 3rd Party IMU Streaming           | Maptur Mobile App Streaming
 
 
 
