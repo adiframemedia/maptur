@@ -12,6 +12,14 @@
 
 
 
+### Pricing Tiers
+
+Free                          | Base              | Pro
+----------------------------- | ----------------- | ---------
+Basic Script Control          | Basic Script Control           | Basic Script Control
+Rotation Support             | Rotation and Translation Support           | Rotation and Translation Support
+
+
 ### Tested Mobile Devices
 
 Device                        | Status            | Date
