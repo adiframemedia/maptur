@@ -32,10 +32,3 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 ---
 
-### Tested Mobile Devices
-
-| Device                   | Status   | Date       |
-|--------------------------|----------|------------|
-| **iPhone 16 Pro**        | Working  | 2/10/2025  |
-| **Samsung S24 Ultra**    | Working  | 2/10/2025  |
-
