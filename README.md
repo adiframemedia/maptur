@@ -6,3 +6,11 @@
 [![Badge: macOS](https://img.shields.io/badge/os-%20macOS-green)](#)
 [![Badge: Linux](https://img.shields.io/badge/os-Linux-yellow)](#)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](#)
+
+
+### Tested Mobile Devices
+
+Device                        | Status            | Date
+----------------------------- | ----------------- | ---------
+**iPhone 16 Pro**             | Working           | 2/10/2025
+**Samsung S24 Ultra**         | Working           | 2/10/2025
