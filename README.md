@@ -57,8 +57,9 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 - **Android App** – First version of Android app will be released
 - **Live Viewport Streaming** - Stream your viewport window in real time
 
-#### **Version 1.3.0 - TBD**
+#### **Future Updates **
 - **Windows & macOS Standalone Software** – Standalone software for even more advanced control
+- **Generative AI Camera Keyframes** - Generate camera movement based on your shooting style or copy a specific look
 - **Cloud Syncing** – Pro Users will be allows to sync their logs via a cloud interface which will dynamically sync with the plugin interface.
 
 
