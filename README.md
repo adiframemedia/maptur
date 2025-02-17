@@ -21,13 +21,7 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 ---
 
-### Simple and Easy to use User Interface
-
 <img src="Assets/overview-1.jpg" />
-
----
-
-### Importing Pre Recorded Logs
 
 <img src="Assets/overview-2.jpg" />
 
