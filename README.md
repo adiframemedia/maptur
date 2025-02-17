@@ -1,6 +1,14 @@
 <img src="Assets/logo.png" alt="Maptur Logo" />
 
-<img width = "50px" src="Assets/blender-logo.png" href ="https://www.blender.org/" /> &nbsp;&nbsp;&nbsp;    <img width = "40px" src="Assets/cinema4d-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width = "40px" src="Assets/houdini-logo.png" />
+<a href="https://www.blender.org/" target="_blank">
+    <img width="50px" src="Assets/blender-logo.png" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.maxon.net/en/cinema-4d" target="_blank">
+    <img width="40px" src="Assets/cinema4d-logo.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.sidefx.com/" target="_blank">
+    <img width="40px" src="Assets/houdini-logo.png" />
+</a>
 
 [![Badge: Windows](https://img.shields.io/badge/os-Windows-blue)](#)
 [![Badge: macOS](https://img.shields.io/badge/os-macOS-white)](#)
