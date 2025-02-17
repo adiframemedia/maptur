@@ -10,7 +10,7 @@ Maptur is a 3D Tracking Software and Plugin Collective that translates IMU data 
 
 ---
 
-## How it works?
+## Features and Details
 Using Maptur there's 2 main methods of control, **Live Control** and **Captured Logs**. Both methods allow users to make use of the Maptur camera tracking software whether they’re in studio on a local network or completely offline.
 
 ### Live Control
