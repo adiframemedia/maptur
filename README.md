@@ -1,13 +1,12 @@
 <img src="Assets/logo.png" alt="Maptur Logo" />
 
+<img width = "50px" src="Assets/blender-logo.png" />
+
 [![Badge: Windows](https://img.shields.io/badge/os-Windows-blue)](#)
 [![Badge: macOS](https://img.shields.io/badge/os-macOS-white)](#)
 [![Badge: Linux](https://img.shields.io/badge/os-Linux-yellow)](#)
 [![Version](https://img.shields.io/badge/version-1.0.0-darkgreen)](#)
 
-
-<img width = "50px" src="Assets/blender-logo.png" />
-Blender: https://www.blender.org/
 
 # Welcome to Maptur
 Maptur is a 3D Tracking Software and Plugin Collective that translates IMU data from mobile devices into usable 3D positioning data for animation software. Currently, it works in Blender but will soon have support in Maxon Cinema 4D, SideFX Houdini, and Autodesk Maya.
