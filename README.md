@@ -25,10 +25,10 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 Upon release we will create a collection of videos and written guides showing users how to set up all 3 vairants of maptur and best practices to ensure users get the best possible results form our tool.
 
-## YouTube Videos
+### YouTube Videos
   -  A series of YouTube content will be made in order to educate new users on how to use the plugin and the best ways to setup the program.
   -  
-## PDF Instruction Guides
+### PDF Instruction Guides
   - 3 Guides will be made each one for a different customer variants Free, Base, and Pro which each highlights how to use the additional features provided within each product tier.
 
 # Key Features
