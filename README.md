@@ -55,9 +55,7 @@ Upon release we will create a collection of videos and written guides showing us
 | **Bluetooth Control**        | None          | None          | Included       |
 | **Mobile App Support**        | None          | None          | Included       |
  
-
 ---
-
 
 ## 📅 Release Roadmap
 
