@@ -32,16 +32,13 @@ Within the Maptur Control Panel you can adjsut what data points of your virtual 
 Exlusive for Pro users with the Maptur Mobile App. You can enable a live viewport monitoring mode which allows users to select a specific camera within a blender scene and then streams a live feed of the given view. You can make use of any shading type you want since this is an extent of blender's viewport but Ray Tracing in Cycles perofrmance will be highly hardware dependent. GPUs with Ray Tracing cores are recommended for this kind of use in real time. 
 
 ### Bluetooth Streaming
-
+This feature is exclusive to our pro variant which requires the use of our mobile app. Within the mobile app you will click on search for device after selecting bluetooth connection mode and can report data in the same way you would over WiFi. Keep in mind that while bluetooth offers good response time, you are capable or getting faster ping times through WiFi so if you plan on reporting at a high frequency setting it would be in your best interest to use WiFi instead of bluetooth.
 
 ### WiFi Streaming
+Maptur will generate a local server on your computer running blender which will act as a main recieving port for IMU data within live scenarios. If you're using a 3rd party app for IMU reporting such as SensorLog on IOS you have to manually enter in the IP and port number that is displayed within the Control Panel for Maptur. If you're using the Maptur mobile app all you need to do is click on search for network and select on the desired machine you would like to connect to on your local network.
 
-
-### Multi Camera Control
-
-
-### Adjustable FPS and Update Rates Control
-
+### Adjustable Live Viewport FPS and Update Rates Control
+Within our plugin you can either sync to the timeline FPS of your project or use a custom speed if you would like. Along with this you can adjust your update rate which can be reported at a different speed than your frame rate. Please note that when you translate to keyframe data it will convert the frequency to whatever your frame rate is. You can convert up in a scenario such as if you were reporting at 24hz and the frame rate of the project is 30 FPS. The frame rates will update accordingly and add appropriate spacing and scaling to conform the the project frame rate.
 
 ### Mobile App Camera Recording + IMU Data Logging
 If you want to record a video on your phone and have attached IMU Data that can be used by maptur you can use the camera recording functinality within our mobile app which will sync the data with timcode to your IMU Log which can easily be worked with in blender using the maptur control panel.
@@ -109,5 +106,5 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 - **Windows & macOS Standalone Software** – Standalone software for even more advanced control
 - **Generative AI Camera Keyframes** - Generate camera movement based on your shooting style or copy a specific look
 - **Cloud Syncing** – Pro Users will be allows to sync their logs via a cloud interface which will dynamically sync with the plugin interface.
-
+- **Slow Motion Camera Simulation** – Seperate Control panel for slow motion camera control
 
