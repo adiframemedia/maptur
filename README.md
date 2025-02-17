@@ -27,7 +27,7 @@ Upon release we will create a collection of videos and written guides showing us
 
 ### YouTube Videos
   -  A series of YouTube content will be made in order to educate new users on how to use the plugin and the best ways to setup the program.
-  -  
+  -  Videos will categorized based on product tier: Free, Base, Pro.
 ### PDF Instruction Guides
   - 3 Guides will be made each one for a different customer variants Free, Base, and Pro which each highlights how to use the additional features provided within each product tier.
 
