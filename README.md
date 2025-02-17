@@ -5,6 +5,8 @@
 [![Badge: Linux](https://img.shields.io/badge/os-Linux-yellow)](#)
 [![Version](https://img.shields.io/badge/version-1.0.0-darkgreen)](#)
 
+
+<img src="Assets/blender-logo.png" />
 Blender: https://www.blender.org/
 
 # Welcome to Maptur
