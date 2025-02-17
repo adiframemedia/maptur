@@ -51,6 +51,8 @@ Upon release we will create a collection of videos and written guides showing us
 | **Data Streaming**        | 3rd Party IMU Streaming          | 3rd Party IMU Streaming          | Maptur Mobile App Streaming       |
 | **Data Smoothing**        | None          | Included          | Included       |
 | **Viewport Monitoring**        | None          | None          | Included       |
+| **WiFi Control**        | Included          | Included          | Included       |
+| **WiFi Control**        | None          | None          | Included       |
 
 ---
 
