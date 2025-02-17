@@ -39,6 +39,7 @@ Upon release we will create a collection of videos and written guides showing us
 
 <img src="Assets/overview-viewport.jpg" />
 
+---
 
 ## Pricing and Features Breakdown
 
