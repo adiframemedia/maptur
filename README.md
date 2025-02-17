@@ -25,6 +25,7 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 |                           | **Free**                         | **Base ($250)**                  | **Pro ($250 + $20/mo)**           |
 |---------------------------|:--------------------------------:|:--------------------------------:|:---------------------------------:|
+|   |   |  |  |
 | **Script Control**        | Basic                            | Advanced                         | Advanced                          |
 | **Movement Type**         | Rotation                         | Rotation and Translation         | Rotation and Translation          |
 | **Setup**                 | Manual Setup & Control           | Blender Addon GUI                | Blender Addon GUI                 |
