@@ -40,7 +40,7 @@ Upon release we will create a collection of videos and written guides showing us
 <img src="Assets/overview-viewport.jpg" />
 
 
-### Pricing Tiers
+### Pricing and Features Breakdown
 
 |                           | **Free**                         | **Base ($250)**                  | **Pro ($250 + $20/mo)**           |
 |---------------------------|:--------------------------------:|:--------------------------------:|:---------------------------------:|
