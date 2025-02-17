@@ -19,6 +19,9 @@ Live Control allows you to connect to your computer either via WiFi or Bluetooth
 ### Captured Logs
 Captured Logs are a feature that will exclusively be offered for our **Pro** users who have access to our mobile app. This app will be available on iOS first, then the Android release will follow. Utilizing this feature, you will be able to record data sets of camera information for when you're offline and then either send the file to your computer manually or wirelessly sync the data and turn it into usable keyframe data.
 
+### Precise Rotation and Translation Control
+Using our algorithim we can utlize IMU data from phones and turn this into usable data wihtin 3d environments such as blender. Our Rotation and Translation features do not utilize LiDAR or any sort of photoprocessing data to function which enables users to orient phones into different ways and does not require the use of the onboard camera currently.
+
 ### Data Smoothing
 IMU Data coming in from mobile devices is very precise and even the slightest movement can cause small amounts of jitter to translate into the 3d enivornment. To help counter this we have a algorithim that can be activate to smooth the data out and elimate a lot of these small jitters that may produce an unwanted look in the virtual camera movement.
 
@@ -27,6 +30,22 @@ Within the Maptur Control Panel you can adjsut what data points of your virtual 
 
 ### Live Viewport Monitoring
 Exlusive for Pro users with the Maptur Mobile App. You can enable a live viewport monitoring mode which allows users to select a specific camera within a blender scene and then streams a live feed of the given view. You can make use of any shading type you want since this is an extent of blender's viewport but Ray Tracing in Cycles perofrmance will be highly hardware dependent. GPUs with Ray Tracing cores are recommended for this kind of use in real time. 
+
+### Bluetooth Streaming
+
+
+### WiFi Streaming
+
+
+### Multi Camera Control
+
+
+### Adjustable FPS and Update Rates Control
+
+
+### Mobile App Camera Recording + IMU Data Logging
+If you want to record a video on your phone and have attached IMU Data that can be used by maptur you can use the camera recording functinality within our mobile app which will sync the data with timcode to your IMU Log which can easily be worked with in blender using the maptur control panel.
+
 
 ---
 
