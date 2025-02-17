@@ -67,8 +67,6 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 - **Live Control** – WiFi/Bluetooth-based data transmission.
 - **Basic & Advanced Control Panels** – Adjust data smoothing, camera sync, and motion settings.
 
----
-
 ### **Upcoming Features & Releases**
 
 #### **Version 1.1.0 - Late March 2025**
