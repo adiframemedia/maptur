@@ -1,6 +1,6 @@
 <img src="Assets/logo.png" alt="Maptur Logo" />
 
-<img width = "50px" src="Assets/blender-logo.png" /> <img width = "50px" src="Assets/cinema4d-logo.png" />
+<img width = "50px" src="Assets/blender-logo.png" /> <img width = "40px" src="Assets/cinema4d-logo.png" />
 
 [![Badge: Windows](https://img.shields.io/badge/os-Windows-blue)](#)
 [![Badge: macOS](https://img.shields.io/badge/os-macOS-white)](#)
