@@ -68,7 +68,8 @@ Upon release we will create a collection of videos and written guides showing us
 
 ## Pricing and Features Breakdown
 
-|                           | **Free**                         | **Base ($250)**                  | **Pro ($250 + $20/mo)**           |
+|                           | **Free**                         | **Base**                 | **Pro**           |
+|**Price**                          | Free                         | $250                 | $250 + $20/mo           |
 |---------------------------|:--------------------------------:|:--------------------------------:|:---------------------------------:|
 |   |   |  |  |
 | **Script Control**        | Basic                            | Advanced                         | Advanced                          |
