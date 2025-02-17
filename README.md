@@ -21,6 +21,8 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 ---
 
+<img src="Assets/guide-1.jpg" />
+
 ### Pricing Tiers
 
 |                           | **Free**                         | **Base ($250)**                  | **Pro ($250 + $20/mo)**           |
