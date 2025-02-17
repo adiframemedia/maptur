@@ -52,7 +52,9 @@ Upon release we will create a collection of videos and written guides showing us
 | **Data Smoothing**        | None          | Included          | Included       |
 | **Viewport Monitoring**        | None          | None          | Included       |
 | **WiFi Control**        | Included          | Included          | Included       |
-| **Bluetoosh Control**        | None          | None          | Included       |
+| **Bluetooth Control**        | None          | None          | Included       |
+| **Mobile App Support**        | None          | None          | Included       |
+ 
 
 ---
 
