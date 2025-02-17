@@ -25,7 +25,7 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 <img src="Assets/overview-2.jpg" />
 
-<img src="Assets/viewport-1.jpg" />
+<img src="Assets/overview-viewport.jpg" />
 
 
 ### Pricing Tiers
