@@ -49,6 +49,8 @@ Upon release we will create a collection of videos and written guides showing us
 | **Movement Type**         | Rotation                         | Rotation and Translation         | Rotation and Translation          |
 | **Setup**                 | Manual Setup & Control           | Blender Addon GUI                | Blender Addon GUI                 |
 | **Data Streaming**        | 3rd Party IMU Streaming          | 3rd Party IMU Streaming          | Maptur Mobile App Streaming       |
+| **Data Smoothing**        | None          | Included          | Included       |
+| **Viewport Monitoring**        | None          | None          | Included       |
 
 ---
 
