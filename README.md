@@ -1,6 +1,6 @@
 <img src="Assets/logo.png" alt="Maptur Logo" />
 
-<img width = "50px" src="Assets/blender-logo.png" /> &nbsp;&nbsp;&nbsp;    <img width = "40px" src="Assets/cinema4d-logo.png" />&nbsp;&nbsp;&nbsp; <img width = "40px" src="Assets/houdini-logo.png" />
+<img width = "50px" src="Assets/blender-logo.png" /> &nbsp;&nbsp;&nbsp;    <img width = "40px" src="Assets/cinema4d-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width = "40px" src="Assets/houdini-logo.png" />
 
 [![Badge: Windows](https://img.shields.io/badge/os-Windows-blue)](#)
 [![Badge: macOS](https://img.shields.io/badge/os-macOS-white)](#)
