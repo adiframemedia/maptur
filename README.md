@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-darkgreen)](#)
 
 
-<img src="Assets/blender-logo.png" />
+<img width = "50px" src="Assets/blender-logo.png" />
 Blender: https://www.blender.org/
 
 # Welcome to Maptur
