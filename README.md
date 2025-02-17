@@ -69,8 +69,8 @@ Upon release we will create a collection of videos and written guides showing us
 ## Pricing and Features Breakdown
 
 |   _                                | **Free**                     | **Base**             | **Pro**                 |
-|**Price**                          | Free                         | $250                 | $250 + $20/mo           |
 |---------------------------|:--------------------------------:|:--------------------------------:|:---------------------------------:|
+|**Price**                          | Free                         | $250                 | $250 + $20/mo           |
 |   |   |  |  |
 | **Script Control**        | Basic                            | Advanced                         | Advanced                          |
 | **Movement Type**         | Rotation                         | Rotation and Translation         | Rotation and Translation          |
