@@ -11,7 +11,7 @@
 # Welcome to Maptur
 Maptur is a 3D Tracking Software and Plugin Collective that translates IMU data from mobile devices into usable 3D positioning data for animation software. Currently, it works in Blender but will soon have support in Maxon Cinema 4D, SideFX Houdini, and Autodesk Maya.
 
-< br / >
+<br / >
 
 Version 1.0.0 will be available to download and purchase at https://natoproductions.com/maptur
 
