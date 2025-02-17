@@ -17,6 +17,8 @@ Version 1.0.0 will be available to download and purchase at https://natoproducti
 
 Follow: https://www.instagram.com/natoproductions/ on Instagram to stay tuned on development progress.
 
+Feel free to submit requests on here or instagram for features you would like to see in the future.
+
 ---
 
 ## Features and Details
