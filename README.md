@@ -21,6 +21,10 @@ Captured Logs are a feature that will exclusively be offered for our **Pro** use
 
 ---
 
+# Tutorials and Setup Guides
+
+Upon release we will create a collection of videos and written guides showing users how to set up all 3 vairants of maptur and best practices to ensure users get the best possible results form our tool.
+
 <img src="Assets/overview-1.jpg" />
 
 <img src="Assets/overview-2.jpg" />
