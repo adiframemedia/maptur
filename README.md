@@ -79,19 +79,7 @@ Upon release we will create a collection of videos and written guides showing us
 
 ## Pricing and Features Breakdown
 
-|                                   | **Free**                     | **Standard**             | **Pro**                 |
-|:---------------------------|:--------------------------------:|:--------------------------------:|:---------------------------------:|
-|**Price**                          | $0                         | $250                 | $250 + $20/mo           |
-|   |   |  |  |
-| **Script Control**        | Basic                            | Advanced                         | Advanced                          |
-| **Movement Type**         | Rotation                         | Rotation and Translation         | Rotation and Translation          |
-| **Setup**                 | Manual Setup & Control           | Blender Addon GUI                | Blender Addon GUI                 |
-| **Data Streaming**        | 3rd Party IMU Streaming          | 3rd Party IMU Streaming          | Maptur Mobile App Streaming       |
-| **Data Smoothing**        | None          | Included          | Included       |
-| **Viewport Monitoring**        | None          | None          | Included       |
-| **WiFi Control**        | Included          | Included          | Included       |
-| **Bluetooth Control**        | None          | None          | Included       |
-| **Mobile App Support**        | None          | None          | Included       |
+### Will be added soon.
  
 ---
 
