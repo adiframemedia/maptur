@@ -108,7 +108,7 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 
 #### **Future Updates**
 - **Autodesk Maya Support** – First release of Maya Version
-- - **Unreal Engine 5 Support** – First release of Unreal Engine 5 Version
+- **Unreal Engine 5 Support** – First release of Unreal Engine 5 Version
 - **Windows & macOS Standalone Software** – Standalone software for even more advanced control
 - **Generative AI Camera Keyframes** - Generate camera movement based on your shooting style or copy a specific look
 - **Cloud Syncing** – Pro Users will be allows to sync their logs via a cloud interface which will dynamically sync with the plugin interface.
