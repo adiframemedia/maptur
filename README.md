@@ -113,4 +113,4 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 - **Generative AI Camera Keyframes** - Generate camera movement based on your shooting style or copy a specific look
 - **Cloud Syncing** – Pro Users will be allows to sync their logs via a cloud interface which will dynamically sync with the plugin interface.
 - **Slow Motion Camera Simulation** – Seperate Control panel for slow motion camera control
-
+- **Unity Support** - First release of Unity Version. 
