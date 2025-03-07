@@ -31,7 +31,7 @@ Live Control allows you to connect to your computer either via WiFi or Bluetooth
 Captured Logs are a feature that will exclusively be offered for our **Pro** users who have access to our mobile app. This app will be available on iOS first, then the Android release will follow. Utilizing this feature, you will be able to record data sets of camera information for when you're offline and then either send the file to your computer manually or wirelessly sync the data and turn it into usable keyframe data.
 
 ### Precise Rotation and Translation Control
-Using our algorithim we can utlize IMU data from phones and turn this into usable data wihtin 3d environments such as blender.
+Using our algorithim we can utlize IMU data from phones and turn this into usable data wihtin 3d environments such as blender. We make use of AR Functionality for Rotation and Translation movement. For rotation movment you can just use IMU only mode which will allow for slighly faster reporting rates and easier operating when using our free mode.
 
 ### Data Smoothing
 IMU Data coming in from mobile devices is very precise and even the slightest movement can cause small amounts of jitter to translate into the 3d enivornment. To help counter this we have a algorithim that can be activate to smooth the data out and elimate a lot of these small jitters that may produce an unwanted look in the virtual camera movement.
