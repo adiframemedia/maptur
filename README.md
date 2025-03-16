@@ -1,4 +1,4 @@
-<img src="Assets/logo.png" alt="Maptur Logo" />
+<img src="Assets/cover_photo.png" alt="Maptur Logo" />
 
 <img width = "50px" src="Assets/blender-logo.png" href ="https://www.blender.org/" /> &nbsp;&nbsp;&nbsp;    <img width = "40px" src="Assets/cinema4d-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width ="40px" src="Assets/houdini-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width ="40px" src="Assets/unreal-logo.png" />
 
