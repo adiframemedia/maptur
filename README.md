@@ -94,15 +94,15 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 
 ### **Upcoming Features & Releases**
 
-#### **Version 1.1.0 - Late March 2025**
+#### **Version 1.1.0 - Mid/Late April 2025**
 - **IOS App** – First version of IOS app will be released
 - **Captured Logs (Pro Feature)** – Record and replay motion tracking data.
 
-#### **Version 1.2.0 - April 2025**
+#### **Version 1.2.0 - May 2025**
 - **Android App** – First version of Android app will be released
 - **Live Viewport Streaming** - Stream your viewport window in real time
 
-#### **Version 1.3.0 - May 2025**
+#### **Version 1.3.0 - June 2025**
 - **Cinema 4D Support** – First release of Cinema 4D Version
 - **Houdini Support** – First release of Houdini Version
 
