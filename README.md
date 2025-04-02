@@ -87,7 +87,7 @@ Upon release we will create a collection of videos and written guides showing us
 
 Below is the planned roadmap for Maptur, detailing upcoming features and their expected release dates. Features are subject to change based on development progress and user feedback.
 
-### **Version 1.0.0 - March 2025** (Initial Release)
+### **Version 1.0.0 - Mid/Late April 2025** (Initial Release)
 - **Blender Integration** – Real-time IMU data streaming for camera tracking.
 - **Live Control** – WiFi/Bluetooth-based data transmission.
 - **Basic & Advanced Control Panels** – Adjust data smoothing, camera sync, and motion settings.
