@@ -73,7 +73,7 @@ Upon release we will create a collection of videos and written guides showing us
 
 <img src="Assets/overview-2.jpg" />
 
-<img src="Assets/overview-viewport.jpg" />
+<img src="Assets/overview-viewport2.jpg" />
 
 ---
 
