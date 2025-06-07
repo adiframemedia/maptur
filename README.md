@@ -54,6 +54,10 @@ Within our plugin you can either sync to the timeline FPS of your project or use
 ### Mobile App Camera Recording + IMU Data Logging
 If you want to record a video on your phone and have attached IMU Data that can be used by maptur you can use the camera recording functinality within our mobile app which will sync the data with timcode to your IMU Log which can easily be worked with in blender using the maptur control panel.
 
+### Quick Video Tracking Feature (Future Update)
+
+Upload a regular video from your phone to the IOS or Android App or directly through the Desktop Addon and our software will analyze all of the frames and turn the Camera movement in the video into keyframes usable within blender. A separate menu will allow you to adjust and tweak tracking settings to get the best possible data output from the video. A predictive algorithm also will function in order to clean up the frames that appear to be unwanted or incorrect from the video tracking data. A strong GPU is recommended in order to make this feature operate efficiently.
+
 
 ---
 
