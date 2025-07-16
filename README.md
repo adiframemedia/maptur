@@ -92,22 +92,22 @@ Upon release we will create a collection of videos and written guides showing us
 
 Below is the planned roadmap for Maptur, detailing upcoming features and their expected release dates. Features are subject to change based on development progress and user feedback.
 
-### **Version 1.0.0 - Mid/Late June 2025** (Initial Release)
+### **Version 1.0.0 - Mid/Late July 2025** (Initial Release)
 - **Blender Integration** – Real-time IMU data streaming for camera tracking.
 - **Live Control** – WiFi/Bluetooth-based data transmission.
 - **Basic & Advanced Control Panels** – Adjust data smoothing, camera sync, and motion settings.
 
 ### **Upcoming Features & Releases**
 
-#### **Version 1.1.0 - Mid July 2025**
+#### **Version 1.1.0 - August 2025**
 - **IOS App** – First version of IOS app will be released
 - **Captured Logs (Pro Feature)** – Record and replay motion tracking data.
 
-#### **Version 1.2.0 - August 2025**
+#### **Version 1.2.0 - September 2025**
 - **Android App** – First version of Android app will be released
 - **Live Viewport Streaming** - Stream your viewport window in real time
 
-#### **Version 1.3.0 - September 2025**
+#### **Version 1.3.0 - October 2025**
 - **Cinema 4D Support** – First release of Cinema 4D Version
 - **Houdini Support** – First release of Houdini Version
 
