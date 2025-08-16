@@ -80,12 +80,6 @@ Upon release we will create a collection of videos and written guides showing us
 
 ---
 
-## Pricing and Features Breakdown
-
-### Will be added soon.
- 
----
-
 
 ## 📅 Release Roadmap
 
