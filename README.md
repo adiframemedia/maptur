@@ -12,9 +12,9 @@ Maptur is a 3D Positiong and Tracking Software that translates IMU data from mob
 
 <br />
 
-Version 1.0.0 will be available to download and purchase at https://natoproductions.com/maptur
+Version 1.0.0 will be available to download and purchase at https://maptur.adiframemedia.com/
 
-Follow: https://www.instagram.com/natoproductions/ on Instagram to stay tuned on development progress.
+Follow: https://www.instagram.com/adiframemedia/ on Instagram to stay tuned on development progress.
 
 Feel free to submit requests on here or instagram for features you would like to see in the future.
 
