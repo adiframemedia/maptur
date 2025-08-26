@@ -99,17 +99,63 @@ Upon release we will create a collection of videos and written guides showing us
 Below is the planned roadmap for Maptur, detailing upcoming features and their expected release dates. Features are subject to change based on development progress and user feedback.
 
 ### **Version 1.0.0 - August 2025** (Initial Release - iOS)
-- **Blender Integration** – Real-time IMU data streaming for camera tracking.
-- **Live Control** – WiFi-based data transmission.
+- **Blender Interface** – Easy to Use Blender Interface that allows users to stream data and make adjustment to their recording style.
+- **Live Control** – WiFi-based live data transmission system.
+- **Data Smoothing** – Smooth out Input coming in from your Mobile Device for cleaner camera moves with less jitter.
+- **Mobile Logs** – Record Logs in App to make use of the Camera Moves for future scenes.
 - **Basic & Advanced Control Panels** – Adjust data smoothing, camera sync, and motion settings.
+- **Viewport Streaming (Experimental)** – Currently in Experimental Stages, Stream your viewport to your phone for a realtime preview. This feature will be getting a massive optimization update soon that will ensure 120FPS 1080p operation on strong WiFi Networks.
 
 
-#### **Future Updates**
-- **Android Support** – First release of Android App
-- **Autodesk Maya Support** – First release of Maya Version
-- **Unreal Engine 5 Support** – First release of Unreal Engine 5 Version
-- **Windows & macOS Standalone Software** – Standalone software for even more advanced control
-- **Generative AI Camera Keyframes** - Generate camera movement based on your shooting style or copy a specific look
-- **Cloud Syncing** – Pro Users will be allows to sync their logs via a cloud interface which will dynamically sync with the plugin interface.
-- **Slow Motion Camera Simulation** – Seperate Control panel for slow motion camera control
-- **Unity Support** - First release of Unity Version. 
+
+## **Future Features in Coming Updates**
+
+
+### Video & Streaming
+- **Fullscreen Viewport Streaming** - 1080p up to 120FPS (NVENC + VCE) *(Windows Only)*
+- **In-App Video Recording** - Record video footage while capturing positioning data
+- **Slow Motion Mode** - Adaptive camera smoothing with cleanup algorithm for virtual slow-motion shots
+
+### New Calibration Systems
+- **Automatic Camera Pivoting Calibration** - For users mounting phones on top of cameras
+- **Scene Distance Calibration** - Accurate real-world distance mapping for scene reconstruction
+
+### Real-Time 3D Preview & Playback
+- **3D Scene Preview** - View prerecorded scenes within:
+ - Blender Renderer
+ - Apple's Metal Renderer
+- **Timeline & Keyframe Control**
+ - Fast forward camera playback
+ - Speed up recordings
+ - Jump to specific frames
+- **Offline Mode** - Full app functionality without internet connection
+
+### Camera Data Import Support
+Import footage with positioning data from a wide range of cameras:
+- **Sony** *(Rotation Only)*
+- **RED** *(Rotation Only)*
+- **GoPro** *(Rotation Only)*
+
+### Camera Controls
+- **Advanced Camera Smoothing** - Professional-grade smoothing algorithms
+- **Real-time Adjustment Features** - Fine-tune camera parameters on the fly
+- **Enhanced Recording Controls** - Full control over recording settings
+
+### Future Software Integration
+
+#### 3D Software
+- **Blender**
+- **Autodesk Maya**
+- **Cinema 4D**
+
+#### Game Engines
+- **Unreal Engine 5**
+- **Unity**
+
+### Future Mobile Platform Support
+- **Android**
+
+### Connectivity & Networking
+- **Bluetooth Connection**
+- **Peer-to-Peer WiFi** Connection Modes
+- **Cloud Storage & Syncing**
