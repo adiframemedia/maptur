@@ -4,7 +4,7 @@
 
 [![Badge: Windows](https://img.shields.io/badge/os-Windows-blue)](#)
 [![Badge: macOS](https://img.shields.io/badge/os-macOS-white)](#)
-[![Badge: iOS](https://img.shields.io/badge/os-ios-white)](#)
+[![Badge: iOS](https://img.shields.io/badge/os-iOS-white)](#)
 [![Version](https://img.shields.io/badge/version-1.0.0-darkgreen)](#)
 
 
