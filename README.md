@@ -83,7 +83,7 @@ Upon release we will create a collection of videos and written guides showing us
 
 <img src="Assets/ios-ov5.jpg" />
 
-<img src="Assets/ios-ov3.jpg" />
+<img src="Assets/ios-ov1.jpg" />
 
 <img src="Assets/ios-ov2.jpg" />
 
