@@ -71,13 +71,12 @@ Upon release we will create a collection of videos and written guides showing us
 ### PDF Instruction Guides
   - 3 Guides will be made each one for a different customer variants Free, Standard, and Pro which each highlights how to use the additional features provided within each product tier.
 
-# Key Features
+# Key Features (Blender Interface)
 
 <img src="Assets/overview-1.jpg" />
 
 <img src="Assets/overview-2.jpg" />
 
-<img src="Assets/overview-viewport2.jpg" />
 
 ---
 
