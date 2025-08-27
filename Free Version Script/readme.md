@@ -1,4 +1,4 @@
-# Maptur Free Version
+# Maptur Free Version (Blender)
 
 A Blender script for real-time camera motion tracking using mobile device IMU (Inertial Measurement Unit) data over local network connection.
 
