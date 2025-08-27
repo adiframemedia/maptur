@@ -13,9 +13,11 @@ Maptur is a 3D Positiong and Tracking Software that translates IMU data from mob
 
 <br />
 
-Version 1.0.0 will be available to download and purchase at https://maptur.adiframemedia.com/
+Maptur Pro will be available to download and purchase at https://maptur.adiframemedia.com/
 
-Blender Free Edition is available here: **[Blender Free Edition](https://github.com/adiframemedia/maptur/tree/main/Free%20Edition%20Scripts)**
+The Blender Free Edition is available here: **[Blender Free Edition](https://github.com/adiframemedia/maptur/tree/main/Free%20Edition%20Scripts)**
+
+<br />
 
 Follow: https://www.instagram.com/adiframemedia/ on Instagram to stay tuned on development progress.
 
