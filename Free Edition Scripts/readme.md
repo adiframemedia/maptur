@@ -19,7 +19,7 @@ A Blender script for real-time camera motion tracking using mobile device IMU (I
 
 ## Recommended iOS App
 
-### SensorLog - Your Perfect IMU Data Source
+### SensorLog - Log and Stream Sensor Data
 
 ![SensorLog Logo](../Assets/sensor-log-logo.png)
 
