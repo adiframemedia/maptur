@@ -83,7 +83,7 @@ PORT = 9000             # Choose an available port
 REPORTING_RATE = 60     # Update frequency in Hz
 ```
 
-> 💡 **Configuration Tips**: 
+>  **Configuration Tips**: 
 > - Replace `192.168.1.XXX` with your computer's actual IP address
 > - Ensure the PORT is not currently in use by another application
 > - Adjust REPORTING_RATE based on your network capacity and device performance
