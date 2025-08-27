@@ -43,7 +43,6 @@ We highly recommend using **SensorLog** - a professional-grade sensor data strea
 4. Adjust the reporting rate to match your REPORTING_RATE setting
 5. Start streaming and enjoy real-time camera tracking!
 
-> **Pro Tip**: SensorLog's interface allows you to fine-tune data streaming parameters for optimal performance with your specific network setup.
 
 ##  Quick Start
 
