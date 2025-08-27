@@ -17,6 +17,34 @@ A Blender script for real-time camera motion tracking using mobile device IMU (I
 
 > **Important**: Both mobile device and computer must be on the same network. Peer-to-peer connectivity is not supported.
 
+## Recommended iOS App
+
+### SensorLog - Your Perfect IMU Data Source
+
+![SensorLog Logo](./Assets/sensor-log-logo.png)
+
+We highly recommend using **SensorLog** - a professional-grade sensor data streaming app designed specifically for applications like motion tracking and real-time data transmission.
+
+#### Why SensorLog?
+
+- **High-Frequency Data**: Supports the high reporting rates needed for smooth motion tracking
+- **Reliable Network Streaming**: Built-in UDP broadcasting with stable connection handling
+- **Professional Features**: Comprehensive sensor data access and customizable streaming options
+
+#### Download SensorLog
+
+**[Download SensorLog from the App Store](https://apps.apple.com/us/app/sensorlog/id388014573?platform=iphone)**
+
+#### Quick Setup with SensorLog
+
+1. Install SensorLog from the App Store
+2. Configure SensorLog to broadcast IMU data to your computer's IP address
+3. Set the same PORT number in both SensorLog and the Maptur script
+4. Adjust the reporting rate to match your REPORTING_RATE setting
+5. Start streaming and enjoy real-time camera tracking!
+
+> 💡 **Pro Tip**: SensorLog's interface allows you to fine-tune data streaming parameters for optimal performance with your specific network setup.
+
 ##  Quick Start
 
 1. Configure your network settings in the script (HOST, PORT, REPORTING_RATE)
