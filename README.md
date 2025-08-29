@@ -19,6 +19,7 @@ Maptur Pro will be available to download and purchase at  **[maptur.adfiramemedi
 * Android App is in development
 * Desktop Client is available 
 
+<br />
 
 The Blender Free Edition is available here: **[Blender Free Edition](https://github.com/adiframemedia/maptur/tree/main/Free%20Edition%20Scripts)**
 
