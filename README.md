@@ -14,6 +14,7 @@ Maptur is a 3D Positiong and Tracking Software that translates IMU data from mob
 <br />
 
 Maptur Pro is available to download and purchase at  **[maptur.adfiramemedia.com](https://maptur.adiframemedia.com/)**
+
 iOS App is available at **[App Store](https://apps.apple.com/us/app/maptur/id6751021314)**
 
 * iOS App is available
