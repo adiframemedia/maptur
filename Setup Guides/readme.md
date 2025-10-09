@@ -1,5 +1,7 @@
 # Maptur Setup Guides
 
+Documentation for setting up and connecting Maptur with Blender across different platforms.
+
 ## Available Guides
 
 ### [Getting Started with Maptur in Blender](Getting%20Started%20with%20Maptur%20in%20Blender.pdf)
