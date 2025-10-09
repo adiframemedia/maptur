@@ -1,1 +1,5 @@
-### This folder will soon host a wide range of setup guides for maptur.
+# Setup Guides for Maptur
+
+## Available Guides
+
+- [Blender Installation Guide](Blender%20Install.pdf)
