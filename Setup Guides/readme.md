@@ -1,5 +1,4 @@
 # Setup Guides for Maptur
-Listed below are the Needed Guides 
 
 ## Available Guides
 
