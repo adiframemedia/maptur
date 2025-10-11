@@ -84,7 +84,7 @@ Upon release we will create a collection of videos and written guides showing us
 ---
 
 
-## 📅 Release Roadmap
+## Release Roadmap
 
 Below is the planned roadmap for Maptur, detailing upcoming features and their expected release dates. Features are subject to change based on development progress and user feedback.
 
