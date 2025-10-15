@@ -6,15 +6,15 @@
 
 | Platform | Version | Release Date | Download |
 |----------|---------|--------------|----------|
-| **iOS** | 1.0.0 | October 8, 2025 | [App Store](https://apps.apple.com/us/app/maptur/id6751021314) |
-| **macOS** | 1.0.0 | October 8, 2025 | [Maptur Portal](https://maptur.adiframemedia.com/portal) |
-| **Windows** | 1.0.0 | October 8, 2025 | [Maptur Portal](https://maptur.adiframemedia.com/portal) |
+| **iOS** | 1.1.0 | October 15, 2025 | [App Store](https://apps.apple.com/us/app/maptur/id6751021314) |
+| **macOS** | 1.1.0 | October 15, 2025 | [Maptur Portal](https://maptur.adiframemedia.com/portal) |
+| **Windows** | 1.1.0 | October 15, 2025 | [Maptur Portal](https://maptur.adiframemedia.com/portal) |
 
 ---
 
 ## Upcoming Releases
 
-### Version 1.1.0 - October 2025 (Coming Soon)
+### Version 1.1.0 - October 15, 2025
 
 #### iOS 1.1.0
 - **Changes:**
