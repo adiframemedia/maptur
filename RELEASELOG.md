@@ -12,7 +12,7 @@
 
 ---
 
-## Upcoming Releases
+## Previous Releases
 
 ### Version 1.1.0 - October 15, 2025
 
@@ -39,8 +39,6 @@
 - **Requirements:** Windows 10 or later
 
 
-
-## Previous Releases
 
 ### Version 1.0.0 - October 8, 2025
 
