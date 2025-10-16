@@ -38,7 +38,7 @@
   - Performance Improvements for Networking 
 - **Requirements:** Windows 10 or later
 
-
+---
 
 ### Version 1.0.0 - October 8, 2025
 
