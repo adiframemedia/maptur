@@ -101,7 +101,7 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 ## **Future Features in Coming Updates**
 
 ### Camera Simulation System
-- Simulate the motion and weight of heavier or lighter camera in a wide range of configurations
+- Simulate the motion and weight of heavier or lighter cameras in a wide range of configurations
 - Make use of a wide range of simmulated effects to enhance your motion while recording your scenes
 
 ### Video & Streaming
