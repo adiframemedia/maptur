@@ -9,7 +9,16 @@
 
 
 # Welcome to Maptur
-Maptur is a 3D Positiong and Tracking Software that translates IMU data from mobile devices into usable 3D positioning data for animation software. Currently, it works in Blender but will soon have support in Maxon Cinema 4D, SideFX Houdini, Unreal Engine 5, and Autodesk Maya. Our mobile app will be out later next month for IOS and the Android version will come out the following month.
+Maptur is a professional 3D positioning and tracking software that converts positioning data from iOS devices in real time into precise and easily usable motion inside of Blender. Built to integrate seamlessly, it allows artists and creators to capture natural movement and translate it directly into their 3D scenes.
+
+FEATURES:
+- Real-time motion streaming over WiFi into Blender
+- Multi Computer Support
+- Logged session recording for future workflows
+- Customizable axis control for translation and rotation
+- Built-in smoothing to reduce jitter and create cinematic motion
+- Dynamic cleanup to prevent data loss during live sessions
+- Live viewport monitoring directly on your iPhone
 
 <br />
 
