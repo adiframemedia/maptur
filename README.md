@@ -11,7 +11,7 @@
 # Welcome to Maptur
 Maptur is a professional 3D positioning and tracking software that converts positioning data from iOS devices in real time into precise and easily usable motion inside of Blender. Built to integrate seamlessly, it allows artists and creators to capture natural movement and translate it directly into their 3D scenes.
 
-FEATURES:
+Features:
 - Real-time motion streaming over WiFi into Blender
 - Multi Computer Support
 - Logged session recording for future workflows
@@ -21,6 +21,9 @@ FEATURES:
 - Live viewport monitoring directly on your iPhone
 
 <br />
+
+---
+
 
 * Maptur Pro Desktop Client is available to download and purchase at  **[maptur.adiframemedia.com](https://maptur.adiframemedia.com/)**
 
