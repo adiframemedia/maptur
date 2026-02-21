@@ -117,7 +117,7 @@ Below is the planned roadmap for Maptur, detailing upcoming features and their e
 - Make use of a wide range of simmulated effects to enhance your motion while recording your scenes
 
 ### Video & Streaming
-- **Fullscreen Viewport Streaming** - 1080p up to 120FPS (NVENC + VCE) *(Windows Only)*
+- **Fullscreen Viewport Streaming** - 1080p up to 120FPS (GPU ACCELERATED) *(Windows & Mac Os Support)*
 - **In-App Video Recording** - Record video footage while capturing positioning data
 - **Slow Motion Mode** - Adaptive camera smoothing with cleanup algorithm for virtual slow-motion shots
 
